@@ -3,7 +3,7 @@
 Tablero de control LCD (19099537) es un tablero de control en una pantalla LCD 20x4, el cual consta de 4 columnas correspondientes a la caldera, litros, temperatura y valvula.
 
 <h3 align="center">
-  <img src="tablero.png" width="300">
+  <img src="tablero.png" width="800">
 </h3>
 
 ## Funcionamiento
